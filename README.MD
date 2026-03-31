@@ -123,3 +123,5 @@ that resists 5/10 — but you only see that with repetition.
 A model that completes 3/4 steps is more useful to train than
 one that gets 0.0 for missing the final step. Partial credit
 makes the reward signal more informative for fine-tuning.
+
+Alrighty!
